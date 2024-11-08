@@ -175,9 +175,12 @@ GEM
       psych (>= 4.0.0)
     ref (2.0.0)
     refinerycms (0.9.7.15)
-    refinerycms-i18n (0.9.8.2)
+    refinerycms-i18n (0.9.8.3)
+      routing-filter (~> 0.1.6)
     reline (0.5.10)
       io-console (~> 0.5)
+    routing-filter (0.1.7)
+      actionpack
     sass-rails (6.0.0)
       sassc-rails (~> 2.1, >= 2.1.1)
     sassc (2.4.0)
